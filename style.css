@@ -51,6 +51,7 @@ header ul li a {
     padding: 6px 15px;
     color: #fff;
     border-radius: 30px;
+    transition: 0.4s;
 }
 
 header ul li a:hover,
